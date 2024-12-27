@@ -3,7 +3,7 @@ In this project, we will build dynamic and interactive Tableau dashboard to anal
 
 ### To see the final result of dashboard visualization using Tableau Public, visit:
 
-[![N|Solid](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://biancaninna.github.io/Electric-Vehicles-Data-Analysis-Tableau-Dashboard/)
+[![N|Solid](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://biancaninna.github.io/Tableau-Interactive-Dashboard-Electric-Vehicles/)
 
 ## Business Requirement
 Client wants to create an electric car population dashboard, so that they can have insight on the below requirements
